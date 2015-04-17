@@ -1,6 +1,6 @@
 # Open Source Projects
 
-*A brief presentation on Open Source projects for CodeCampus, Provo UT, Apr 22 2015*
+*A brief presentation on Open Source projects for CodeCampus, Provo UT, Apr 22 2015. [Google Presentation](https://docs.google.com/presentation/d/1qxDz31bEuPBF37l2Twlr5LSRKefkQk4UvOtGUvinWpY/edit#slide=id.g76dcc271e_0_51)*
 
 > Trent Oswald
 >
