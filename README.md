@@ -63,6 +63,22 @@ While most commonly referred to in relation to software, open source as an idea 
 * Eclipse IDE
 * Atom text editor
 
+### Some of my open source projects:
+#### Published
+* [Growmies/countryjs](https://github.com/Growmies/countryjs)
+* [iojs/website](https://github.com/iojs/website)
+* [therebelrobot/debug-log2](https://github.com/therebelrobot/debug-log2)
+* [therebelrobot/awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
+* [therebelrobot/awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper)
+* [Mashape/httpsnippet](https://github.com/Mashape/httpsnippet)
+
+#### WIP
+* [therebelrobot/HelpfulHint](https://github.com/therebelrobot/HelpfulHint)
+* [OpenSourceReligion/BeliefGenome](https://github.com/OpenSourceReligion/BeliefGenome)
+* [therebelrobot/Maelman](https://github.com/therebelrobot/Maelman)
+* [therebelrobot/fontonite](https://github.com/therebelrobot/fontonite)
+
+
 ## How to get involved
 
 * Learn and regularly use [IRC chat](http://www.ircbeginner.com/). Most large OSS projects use IRC as its main method of communication
