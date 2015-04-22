@@ -18,7 +18,7 @@
 
 Open source is a development model that encourages universal access and redistribution of the project’s source *(like code, blueprints, recipes, things like that)*, allowing for third-party modification and redistribution.
 
-Open source celebrates open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community development, and enables self-enhancing diversity of a project’s production.
+Open source celebrates open exchange of information, collaborative participation, rapid prototyping, transparency, meritocracy, and community development. It enables self-enhancing diversity of a project’s production.
 
 ## Not just software
 
